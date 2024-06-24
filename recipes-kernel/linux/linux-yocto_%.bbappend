@@ -1,4 +1,4 @@
 FILESEXTRAPATHS:prepend := "${THISDIR}/files:"
 
-SRC_URI += "file://fragment-01.cfg"
+SRC_URI += "file://fragment-02.cfg"
 
